@@ -1,0 +1,15 @@
+C:\C#\patternProgram\patternProgram\bin\Debug\net6.0\patternProgram.exe
+C:\C#\patternProgram\patternProgram\bin\Debug\net6.0\patternProgram.deps.json
+C:\C#\patternProgram\patternProgram\bin\Debug\net6.0\patternProgram.runtimeconfig.json
+C:\C#\patternProgram\patternProgram\bin\Debug\net6.0\patternProgram.dll
+C:\C#\patternProgram\patternProgram\bin\Debug\net6.0\patternProgram.pdb
+C:\C#\patternProgram\patternProgram\obj\Debug\net6.0\patternProgram.csproj.AssemblyReference.cache
+C:\C#\patternProgram\patternProgram\obj\Debug\net6.0\patternProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\patternProgram\patternProgram\obj\Debug\net6.0\patternProgram.AssemblyInfoInputs.cache
+C:\C#\patternProgram\patternProgram\obj\Debug\net6.0\patternProgram.AssemblyInfo.cs
+C:\C#\patternProgram\patternProgram\obj\Debug\net6.0\patternProgram.csproj.CoreCompileInputs.cache
+C:\C#\patternProgram\patternProgram\obj\Debug\net6.0\patternProgram.dll
+C:\C#\patternProgram\patternProgram\obj\Debug\net6.0\refint\patternProgram.dll
+C:\C#\patternProgram\patternProgram\obj\Debug\net6.0\patternProgram.pdb
+C:\C#\patternProgram\patternProgram\obj\Debug\net6.0\patternProgram.genruntimeconfig.cache
+C:\C#\patternProgram\patternProgram\obj\Debug\net6.0\ref\patternProgram.dll
