@@ -1,0 +1,15 @@
+C:\C#\arrayAscend\arrayAscend\bin\Debug\net6.0\arrayAscend.exe
+C:\C#\arrayAscend\arrayAscend\bin\Debug\net6.0\arrayAscend.deps.json
+C:\C#\arrayAscend\arrayAscend\bin\Debug\net6.0\arrayAscend.runtimeconfig.json
+C:\C#\arrayAscend\arrayAscend\bin\Debug\net6.0\arrayAscend.dll
+C:\C#\arrayAscend\arrayAscend\bin\Debug\net6.0\arrayAscend.pdb
+C:\C#\arrayAscend\arrayAscend\obj\Debug\net6.0\arrayAscend.csproj.AssemblyReference.cache
+C:\C#\arrayAscend\arrayAscend\obj\Debug\net6.0\arrayAscend.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\arrayAscend\arrayAscend\obj\Debug\net6.0\arrayAscend.AssemblyInfoInputs.cache
+C:\C#\arrayAscend\arrayAscend\obj\Debug\net6.0\arrayAscend.AssemblyInfo.cs
+C:\C#\arrayAscend\arrayAscend\obj\Debug\net6.0\arrayAscend.csproj.CoreCompileInputs.cache
+C:\C#\arrayAscend\arrayAscend\obj\Debug\net6.0\arrayAscend.dll
+C:\C#\arrayAscend\arrayAscend\obj\Debug\net6.0\refint\arrayAscend.dll
+C:\C#\arrayAscend\arrayAscend\obj\Debug\net6.0\arrayAscend.pdb
+C:\C#\arrayAscend\arrayAscend\obj\Debug\net6.0\arrayAscend.genruntimeconfig.cache
+C:\C#\arrayAscend\arrayAscend\obj\Debug\net6.0\ref\arrayAscend.dll

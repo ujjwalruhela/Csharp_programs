@@ -1,0 +1,15 @@
+C:\C#\2dSum\2dSum\bin\Debug\net6.0\2dSum.exe
+C:\C#\2dSum\2dSum\bin\Debug\net6.0\2dSum.deps.json
+C:\C#\2dSum\2dSum\bin\Debug\net6.0\2dSum.runtimeconfig.json
+C:\C#\2dSum\2dSum\bin\Debug\net6.0\2dSum.dll
+C:\C#\2dSum\2dSum\bin\Debug\net6.0\2dSum.pdb
+C:\C#\2dSum\2dSum\obj\Debug\net6.0\2dSum.csproj.AssemblyReference.cache
+C:\C#\2dSum\2dSum\obj\Debug\net6.0\2dSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\2dSum\2dSum\obj\Debug\net6.0\2dSum.AssemblyInfoInputs.cache
+C:\C#\2dSum\2dSum\obj\Debug\net6.0\2dSum.AssemblyInfo.cs
+C:\C#\2dSum\2dSum\obj\Debug\net6.0\2dSum.csproj.CoreCompileInputs.cache
+C:\C#\2dSum\2dSum\obj\Debug\net6.0\2dSum.dll
+C:\C#\2dSum\2dSum\obj\Debug\net6.0\refint\2dSum.dll
+C:\C#\2dSum\2dSum\obj\Debug\net6.0\2dSum.pdb
+C:\C#\2dSum\2dSum\obj\Debug\net6.0\2dSum.genruntimeconfig.cache
+C:\C#\2dSum\2dSum\obj\Debug\net6.0\ref\2dSum.dll

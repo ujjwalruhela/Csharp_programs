@@ -1,0 +1,15 @@
+C:\C#\FunctionAscendSorting\FunctionAscendSorting\bin\Debug\net6.0\FunctionAscendSorting.exe
+C:\C#\FunctionAscendSorting\FunctionAscendSorting\bin\Debug\net6.0\FunctionAscendSorting.deps.json
+C:\C#\FunctionAscendSorting\FunctionAscendSorting\bin\Debug\net6.0\FunctionAscendSorting.runtimeconfig.json
+C:\C#\FunctionAscendSorting\FunctionAscendSorting\bin\Debug\net6.0\FunctionAscendSorting.dll
+C:\C#\FunctionAscendSorting\FunctionAscendSorting\bin\Debug\net6.0\FunctionAscendSorting.pdb
+C:\C#\FunctionAscendSorting\FunctionAscendSorting\obj\Debug\net6.0\FunctionAscendSorting.csproj.AssemblyReference.cache
+C:\C#\FunctionAscendSorting\FunctionAscendSorting\obj\Debug\net6.0\FunctionAscendSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\FunctionAscendSorting\FunctionAscendSorting\obj\Debug\net6.0\FunctionAscendSorting.AssemblyInfoInputs.cache
+C:\C#\FunctionAscendSorting\FunctionAscendSorting\obj\Debug\net6.0\FunctionAscendSorting.AssemblyInfo.cs
+C:\C#\FunctionAscendSorting\FunctionAscendSorting\obj\Debug\net6.0\FunctionAscendSorting.csproj.CoreCompileInputs.cache
+C:\C#\FunctionAscendSorting\FunctionAscendSorting\obj\Debug\net6.0\FunctionAscendSorting.dll
+C:\C#\FunctionAscendSorting\FunctionAscendSorting\obj\Debug\net6.0\refint\FunctionAscendSorting.dll
+C:\C#\FunctionAscendSorting\FunctionAscendSorting\obj\Debug\net6.0\FunctionAscendSorting.pdb
+C:\C#\FunctionAscendSorting\FunctionAscendSorting\obj\Debug\net6.0\FunctionAscendSorting.genruntimeconfig.cache
+C:\C#\FunctionAscendSorting\FunctionAscendSorting\obj\Debug\net6.0\ref\FunctionAscendSorting.dll

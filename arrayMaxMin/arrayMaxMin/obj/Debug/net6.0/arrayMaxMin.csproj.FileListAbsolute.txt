@@ -1,0 +1,15 @@
+C:\C#\arrayMaxMin\arrayMaxMin\bin\Debug\net6.0\arrayMaxMin.exe
+C:\C#\arrayMaxMin\arrayMaxMin\bin\Debug\net6.0\arrayMaxMin.deps.json
+C:\C#\arrayMaxMin\arrayMaxMin\bin\Debug\net6.0\arrayMaxMin.runtimeconfig.json
+C:\C#\arrayMaxMin\arrayMaxMin\bin\Debug\net6.0\arrayMaxMin.dll
+C:\C#\arrayMaxMin\arrayMaxMin\bin\Debug\net6.0\arrayMaxMin.pdb
+C:\C#\arrayMaxMin\arrayMaxMin\obj\Debug\net6.0\arrayMaxMin.csproj.AssemblyReference.cache
+C:\C#\arrayMaxMin\arrayMaxMin\obj\Debug\net6.0\arrayMaxMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\arrayMaxMin\arrayMaxMin\obj\Debug\net6.0\arrayMaxMin.AssemblyInfoInputs.cache
+C:\C#\arrayMaxMin\arrayMaxMin\obj\Debug\net6.0\arrayMaxMin.AssemblyInfo.cs
+C:\C#\arrayMaxMin\arrayMaxMin\obj\Debug\net6.0\arrayMaxMin.csproj.CoreCompileInputs.cache
+C:\C#\arrayMaxMin\arrayMaxMin\obj\Debug\net6.0\arrayMaxMin.dll
+C:\C#\arrayMaxMin\arrayMaxMin\obj\Debug\net6.0\refint\arrayMaxMin.dll
+C:\C#\arrayMaxMin\arrayMaxMin\obj\Debug\net6.0\arrayMaxMin.pdb
+C:\C#\arrayMaxMin\arrayMaxMin\obj\Debug\net6.0\arrayMaxMin.genruntimeconfig.cache
+C:\C#\arrayMaxMin\arrayMaxMin\obj\Debug\net6.0\ref\arrayMaxMin.dll

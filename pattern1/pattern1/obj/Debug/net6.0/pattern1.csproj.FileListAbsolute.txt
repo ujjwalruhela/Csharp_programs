@@ -1,0 +1,15 @@
+C:\C#\pattern1\pattern1\bin\Debug\net6.0\pattern1.exe
+C:\C#\pattern1\pattern1\bin\Debug\net6.0\pattern1.deps.json
+C:\C#\pattern1\pattern1\bin\Debug\net6.0\pattern1.runtimeconfig.json
+C:\C#\pattern1\pattern1\bin\Debug\net6.0\pattern1.dll
+C:\C#\pattern1\pattern1\bin\Debug\net6.0\pattern1.pdb
+C:\C#\pattern1\pattern1\obj\Debug\net6.0\pattern1.csproj.AssemblyReference.cache
+C:\C#\pattern1\pattern1\obj\Debug\net6.0\pattern1.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\pattern1\pattern1\obj\Debug\net6.0\pattern1.AssemblyInfoInputs.cache
+C:\C#\pattern1\pattern1\obj\Debug\net6.0\pattern1.AssemblyInfo.cs
+C:\C#\pattern1\pattern1\obj\Debug\net6.0\pattern1.csproj.CoreCompileInputs.cache
+C:\C#\pattern1\pattern1\obj\Debug\net6.0\pattern1.dll
+C:\C#\pattern1\pattern1\obj\Debug\net6.0\refint\pattern1.dll
+C:\C#\pattern1\pattern1\obj\Debug\net6.0\pattern1.pdb
+C:\C#\pattern1\pattern1\obj\Debug\net6.0\pattern1.genruntimeconfig.cache
+C:\C#\pattern1\pattern1\obj\Debug\net6.0\ref\pattern1.dll

@@ -1,0 +1,15 @@
+C:\C#\ArrayEvenOdd\ArrayEvenOdd\bin\Debug\net6.0\ArrayEvenOdd.exe
+C:\C#\ArrayEvenOdd\ArrayEvenOdd\bin\Debug\net6.0\ArrayEvenOdd.deps.json
+C:\C#\ArrayEvenOdd\ArrayEvenOdd\bin\Debug\net6.0\ArrayEvenOdd.runtimeconfig.json
+C:\C#\ArrayEvenOdd\ArrayEvenOdd\bin\Debug\net6.0\ArrayEvenOdd.dll
+C:\C#\ArrayEvenOdd\ArrayEvenOdd\bin\Debug\net6.0\ArrayEvenOdd.pdb
+C:\C#\ArrayEvenOdd\ArrayEvenOdd\obj\Debug\net6.0\ArrayEvenOdd.csproj.AssemblyReference.cache
+C:\C#\ArrayEvenOdd\ArrayEvenOdd\obj\Debug\net6.0\ArrayEvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ArrayEvenOdd\ArrayEvenOdd\obj\Debug\net6.0\ArrayEvenOdd.AssemblyInfoInputs.cache
+C:\C#\ArrayEvenOdd\ArrayEvenOdd\obj\Debug\net6.0\ArrayEvenOdd.AssemblyInfo.cs
+C:\C#\ArrayEvenOdd\ArrayEvenOdd\obj\Debug\net6.0\ArrayEvenOdd.csproj.CoreCompileInputs.cache
+C:\C#\ArrayEvenOdd\ArrayEvenOdd\obj\Debug\net6.0\ArrayEvenOdd.dll
+C:\C#\ArrayEvenOdd\ArrayEvenOdd\obj\Debug\net6.0\refint\ArrayEvenOdd.dll
+C:\C#\ArrayEvenOdd\ArrayEvenOdd\obj\Debug\net6.0\ArrayEvenOdd.pdb
+C:\C#\ArrayEvenOdd\ArrayEvenOdd\obj\Debug\net6.0\ArrayEvenOdd.genruntimeconfig.cache
+C:\C#\ArrayEvenOdd\ArrayEvenOdd\obj\Debug\net6.0\ref\ArrayEvenOdd.dll

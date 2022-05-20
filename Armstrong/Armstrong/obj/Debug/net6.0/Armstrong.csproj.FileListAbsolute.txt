@@ -1,0 +1,15 @@
+C:\C#\Armstrong\Armstrong\bin\Debug\net6.0\Armstrong.exe
+C:\C#\Armstrong\Armstrong\bin\Debug\net6.0\Armstrong.deps.json
+C:\C#\Armstrong\Armstrong\bin\Debug\net6.0\Armstrong.runtimeconfig.json
+C:\C#\Armstrong\Armstrong\bin\Debug\net6.0\Armstrong.dll
+C:\C#\Armstrong\Armstrong\bin\Debug\net6.0\Armstrong.pdb
+C:\C#\Armstrong\Armstrong\obj\Debug\net6.0\Armstrong.csproj.AssemblyReference.cache
+C:\C#\Armstrong\Armstrong\obj\Debug\net6.0\Armstrong.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Armstrong\Armstrong\obj\Debug\net6.0\Armstrong.AssemblyInfoInputs.cache
+C:\C#\Armstrong\Armstrong\obj\Debug\net6.0\Armstrong.AssemblyInfo.cs
+C:\C#\Armstrong\Armstrong\obj\Debug\net6.0\Armstrong.csproj.CoreCompileInputs.cache
+C:\C#\Armstrong\Armstrong\obj\Debug\net6.0\Armstrong.dll
+C:\C#\Armstrong\Armstrong\obj\Debug\net6.0\refint\Armstrong.dll
+C:\C#\Armstrong\Armstrong\obj\Debug\net6.0\Armstrong.pdb
+C:\C#\Armstrong\Armstrong\obj\Debug\net6.0\Armstrong.genruntimeconfig.cache
+C:\C#\Armstrong\Armstrong\obj\Debug\net6.0\ref\Armstrong.dll

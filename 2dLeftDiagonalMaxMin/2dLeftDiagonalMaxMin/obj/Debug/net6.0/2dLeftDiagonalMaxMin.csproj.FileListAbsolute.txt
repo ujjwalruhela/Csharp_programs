@@ -1,0 +1,15 @@
+C:\C#\2dLeftDiagonalMaxMin\2dLeftDiagonalMaxMin\bin\Debug\net6.0\2dLeftDiagonalMaxMin.exe
+C:\C#\2dLeftDiagonalMaxMin\2dLeftDiagonalMaxMin\bin\Debug\net6.0\2dLeftDiagonalMaxMin.deps.json
+C:\C#\2dLeftDiagonalMaxMin\2dLeftDiagonalMaxMin\bin\Debug\net6.0\2dLeftDiagonalMaxMin.runtimeconfig.json
+C:\C#\2dLeftDiagonalMaxMin\2dLeftDiagonalMaxMin\bin\Debug\net6.0\2dLeftDiagonalMaxMin.dll
+C:\C#\2dLeftDiagonalMaxMin\2dLeftDiagonalMaxMin\bin\Debug\net6.0\2dLeftDiagonalMaxMin.pdb
+C:\C#\2dLeftDiagonalMaxMin\2dLeftDiagonalMaxMin\obj\Debug\net6.0\2dLeftDiagonalMaxMin.csproj.AssemblyReference.cache
+C:\C#\2dLeftDiagonalMaxMin\2dLeftDiagonalMaxMin\obj\Debug\net6.0\2dLeftDiagonalMaxMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\2dLeftDiagonalMaxMin\2dLeftDiagonalMaxMin\obj\Debug\net6.0\2dLeftDiagonalMaxMin.AssemblyInfoInputs.cache
+C:\C#\2dLeftDiagonalMaxMin\2dLeftDiagonalMaxMin\obj\Debug\net6.0\2dLeftDiagonalMaxMin.AssemblyInfo.cs
+C:\C#\2dLeftDiagonalMaxMin\2dLeftDiagonalMaxMin\obj\Debug\net6.0\2dLeftDiagonalMaxMin.csproj.CoreCompileInputs.cache
+C:\C#\2dLeftDiagonalMaxMin\2dLeftDiagonalMaxMin\obj\Debug\net6.0\2dLeftDiagonalMaxMin.dll
+C:\C#\2dLeftDiagonalMaxMin\2dLeftDiagonalMaxMin\obj\Debug\net6.0\refint\2dLeftDiagonalMaxMin.dll
+C:\C#\2dLeftDiagonalMaxMin\2dLeftDiagonalMaxMin\obj\Debug\net6.0\2dLeftDiagonalMaxMin.pdb
+C:\C#\2dLeftDiagonalMaxMin\2dLeftDiagonalMaxMin\obj\Debug\net6.0\2dLeftDiagonalMaxMin.genruntimeconfig.cache
+C:\C#\2dLeftDiagonalMaxMin\2dLeftDiagonalMaxMin\obj\Debug\net6.0\ref\2dLeftDiagonalMaxMin.dll

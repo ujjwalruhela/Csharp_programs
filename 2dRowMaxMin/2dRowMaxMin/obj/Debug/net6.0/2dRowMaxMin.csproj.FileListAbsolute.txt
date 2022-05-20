@@ -1,0 +1,15 @@
+C:\C#\2dRowMaxMin\2dRowMaxMin\bin\Debug\net6.0\2dRowMaxMin.exe
+C:\C#\2dRowMaxMin\2dRowMaxMin\bin\Debug\net6.0\2dRowMaxMin.deps.json
+C:\C#\2dRowMaxMin\2dRowMaxMin\bin\Debug\net6.0\2dRowMaxMin.runtimeconfig.json
+C:\C#\2dRowMaxMin\2dRowMaxMin\bin\Debug\net6.0\2dRowMaxMin.dll
+C:\C#\2dRowMaxMin\2dRowMaxMin\bin\Debug\net6.0\2dRowMaxMin.pdb
+C:\C#\2dRowMaxMin\2dRowMaxMin\obj\Debug\net6.0\2dRowMaxMin.csproj.AssemblyReference.cache
+C:\C#\2dRowMaxMin\2dRowMaxMin\obj\Debug\net6.0\2dRowMaxMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\2dRowMaxMin\2dRowMaxMin\obj\Debug\net6.0\2dRowMaxMin.AssemblyInfoInputs.cache
+C:\C#\2dRowMaxMin\2dRowMaxMin\obj\Debug\net6.0\2dRowMaxMin.AssemblyInfo.cs
+C:\C#\2dRowMaxMin\2dRowMaxMin\obj\Debug\net6.0\2dRowMaxMin.csproj.CoreCompileInputs.cache
+C:\C#\2dRowMaxMin\2dRowMaxMin\obj\Debug\net6.0\2dRowMaxMin.dll
+C:\C#\2dRowMaxMin\2dRowMaxMin\obj\Debug\net6.0\refint\2dRowMaxMin.dll
+C:\C#\2dRowMaxMin\2dRowMaxMin\obj\Debug\net6.0\2dRowMaxMin.pdb
+C:\C#\2dRowMaxMin\2dRowMaxMin\obj\Debug\net6.0\2dRowMaxMin.genruntimeconfig.cache
+C:\C#\2dRowMaxMin\2dRowMaxMin\obj\Debug\net6.0\ref\2dRowMaxMin.dll

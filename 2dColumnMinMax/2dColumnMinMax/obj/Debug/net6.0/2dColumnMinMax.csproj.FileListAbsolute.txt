@@ -1,0 +1,15 @@
+C:\C#\2dColumnMinMax\2dColumnMinMax\bin\Debug\net6.0\2dColumnMinMax.exe
+C:\C#\2dColumnMinMax\2dColumnMinMax\bin\Debug\net6.0\2dColumnMinMax.deps.json
+C:\C#\2dColumnMinMax\2dColumnMinMax\bin\Debug\net6.0\2dColumnMinMax.runtimeconfig.json
+C:\C#\2dColumnMinMax\2dColumnMinMax\bin\Debug\net6.0\2dColumnMinMax.dll
+C:\C#\2dColumnMinMax\2dColumnMinMax\bin\Debug\net6.0\2dColumnMinMax.pdb
+C:\C#\2dColumnMinMax\2dColumnMinMax\obj\Debug\net6.0\2dColumnMinMax.csproj.AssemblyReference.cache
+C:\C#\2dColumnMinMax\2dColumnMinMax\obj\Debug\net6.0\2dColumnMinMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\2dColumnMinMax\2dColumnMinMax\obj\Debug\net6.0\2dColumnMinMax.AssemblyInfoInputs.cache
+C:\C#\2dColumnMinMax\2dColumnMinMax\obj\Debug\net6.0\2dColumnMinMax.AssemblyInfo.cs
+C:\C#\2dColumnMinMax\2dColumnMinMax\obj\Debug\net6.0\2dColumnMinMax.csproj.CoreCompileInputs.cache
+C:\C#\2dColumnMinMax\2dColumnMinMax\obj\Debug\net6.0\2dColumnMinMax.dll
+C:\C#\2dColumnMinMax\2dColumnMinMax\obj\Debug\net6.0\refint\2dColumnMinMax.dll
+C:\C#\2dColumnMinMax\2dColumnMinMax\obj\Debug\net6.0\2dColumnMinMax.pdb
+C:\C#\2dColumnMinMax\2dColumnMinMax\obj\Debug\net6.0\2dColumnMinMax.genruntimeconfig.cache
+C:\C#\2dColumnMinMax\2dColumnMinMax\obj\Debug\net6.0\ref\2dColumnMinMax.dll

@@ -1,0 +1,15 @@
+C:\C#\Letter_Digit\Letter_Digit\bin\Debug\net6.0\Letter_Digit.exe
+C:\C#\Letter_Digit\Letter_Digit\bin\Debug\net6.0\Letter_Digit.deps.json
+C:\C#\Letter_Digit\Letter_Digit\bin\Debug\net6.0\Letter_Digit.runtimeconfig.json
+C:\C#\Letter_Digit\Letter_Digit\bin\Debug\net6.0\Letter_Digit.dll
+C:\C#\Letter_Digit\Letter_Digit\bin\Debug\net6.0\Letter_Digit.pdb
+C:\C#\Letter_Digit\Letter_Digit\obj\Debug\net6.0\Letter_Digit.csproj.AssemblyReference.cache
+C:\C#\Letter_Digit\Letter_Digit\obj\Debug\net6.0\Letter_Digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Letter_Digit\Letter_Digit\obj\Debug\net6.0\Letter_Digit.AssemblyInfoInputs.cache
+C:\C#\Letter_Digit\Letter_Digit\obj\Debug\net6.0\Letter_Digit.AssemblyInfo.cs
+C:\C#\Letter_Digit\Letter_Digit\obj\Debug\net6.0\Letter_Digit.csproj.CoreCompileInputs.cache
+C:\C#\Letter_Digit\Letter_Digit\obj\Debug\net6.0\Letter_Digit.dll
+C:\C#\Letter_Digit\Letter_Digit\obj\Debug\net6.0\refint\Letter_Digit.dll
+C:\C#\Letter_Digit\Letter_Digit\obj\Debug\net6.0\Letter_Digit.pdb
+C:\C#\Letter_Digit\Letter_Digit\obj\Debug\net6.0\Letter_Digit.genruntimeconfig.cache
+C:\C#\Letter_Digit\Letter_Digit\obj\Debug\net6.0\ref\Letter_Digit.dll

@@ -1,0 +1,15 @@
+C:\C#\Largest\Largest\bin\Debug\net6.0\Largest.exe
+C:\C#\Largest\Largest\bin\Debug\net6.0\Largest.deps.json
+C:\C#\Largest\Largest\bin\Debug\net6.0\Largest.runtimeconfig.json
+C:\C#\Largest\Largest\bin\Debug\net6.0\Largest.dll
+C:\C#\Largest\Largest\bin\Debug\net6.0\Largest.pdb
+C:\C#\Largest\Largest\obj\Debug\net6.0\Largest.csproj.AssemblyReference.cache
+C:\C#\Largest\Largest\obj\Debug\net6.0\Largest.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Largest\Largest\obj\Debug\net6.0\Largest.AssemblyInfoInputs.cache
+C:\C#\Largest\Largest\obj\Debug\net6.0\Largest.AssemblyInfo.cs
+C:\C#\Largest\Largest\obj\Debug\net6.0\Largest.csproj.CoreCompileInputs.cache
+C:\C#\Largest\Largest\obj\Debug\net6.0\Largest.dll
+C:\C#\Largest\Largest\obj\Debug\net6.0\refint\Largest.dll
+C:\C#\Largest\Largest\obj\Debug\net6.0\Largest.pdb
+C:\C#\Largest\Largest\obj\Debug\net6.0\Largest.genruntimeconfig.cache
+C:\C#\Largest\Largest\obj\Debug\net6.0\ref\Largest.dll

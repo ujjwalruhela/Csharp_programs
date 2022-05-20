@@ -1,0 +1,15 @@
+C:\C#\SalarySlip\SalarySlip\bin\Debug\net6.0\SalarySlip.exe
+C:\C#\SalarySlip\SalarySlip\bin\Debug\net6.0\SalarySlip.deps.json
+C:\C#\SalarySlip\SalarySlip\bin\Debug\net6.0\SalarySlip.runtimeconfig.json
+C:\C#\SalarySlip\SalarySlip\bin\Debug\net6.0\SalarySlip.dll
+C:\C#\SalarySlip\SalarySlip\bin\Debug\net6.0\SalarySlip.pdb
+C:\C#\SalarySlip\SalarySlip\obj\Debug\net6.0\SalarySlip.csproj.AssemblyReference.cache
+C:\C#\SalarySlip\SalarySlip\obj\Debug\net6.0\SalarySlip.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\SalarySlip\SalarySlip\obj\Debug\net6.0\SalarySlip.AssemblyInfoInputs.cache
+C:\C#\SalarySlip\SalarySlip\obj\Debug\net6.0\SalarySlip.AssemblyInfo.cs
+C:\C#\SalarySlip\SalarySlip\obj\Debug\net6.0\SalarySlip.csproj.CoreCompileInputs.cache
+C:\C#\SalarySlip\SalarySlip\obj\Debug\net6.0\SalarySlip.dll
+C:\C#\SalarySlip\SalarySlip\obj\Debug\net6.0\refint\SalarySlip.dll
+C:\C#\SalarySlip\SalarySlip\obj\Debug\net6.0\SalarySlip.pdb
+C:\C#\SalarySlip\SalarySlip\obj\Debug\net6.0\SalarySlip.genruntimeconfig.cache
+C:\C#\SalarySlip\SalarySlip\obj\Debug\net6.0\ref\SalarySlip.dll

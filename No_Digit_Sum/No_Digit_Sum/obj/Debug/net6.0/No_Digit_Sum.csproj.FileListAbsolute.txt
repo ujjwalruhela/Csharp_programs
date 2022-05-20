@@ -1,0 +1,15 @@
+C:\C#\No_Digit_Sum\No_Digit_Sum\bin\Debug\net6.0\No_Digit_Sum.exe
+C:\C#\No_Digit_Sum\No_Digit_Sum\bin\Debug\net6.0\No_Digit_Sum.deps.json
+C:\C#\No_Digit_Sum\No_Digit_Sum\bin\Debug\net6.0\No_Digit_Sum.runtimeconfig.json
+C:\C#\No_Digit_Sum\No_Digit_Sum\bin\Debug\net6.0\No_Digit_Sum.dll
+C:\C#\No_Digit_Sum\No_Digit_Sum\bin\Debug\net6.0\No_Digit_Sum.pdb
+C:\C#\No_Digit_Sum\No_Digit_Sum\obj\Debug\net6.0\No_Digit_Sum.csproj.AssemblyReference.cache
+C:\C#\No_Digit_Sum\No_Digit_Sum\obj\Debug\net6.0\No_Digit_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\No_Digit_Sum\No_Digit_Sum\obj\Debug\net6.0\No_Digit_Sum.AssemblyInfoInputs.cache
+C:\C#\No_Digit_Sum\No_Digit_Sum\obj\Debug\net6.0\No_Digit_Sum.AssemblyInfo.cs
+C:\C#\No_Digit_Sum\No_Digit_Sum\obj\Debug\net6.0\No_Digit_Sum.csproj.CoreCompileInputs.cache
+C:\C#\No_Digit_Sum\No_Digit_Sum\obj\Debug\net6.0\No_Digit_Sum.dll
+C:\C#\No_Digit_Sum\No_Digit_Sum\obj\Debug\net6.0\refint\No_Digit_Sum.dll
+C:\C#\No_Digit_Sum\No_Digit_Sum\obj\Debug\net6.0\No_Digit_Sum.pdb
+C:\C#\No_Digit_Sum\No_Digit_Sum\obj\Debug\net6.0\No_Digit_Sum.genruntimeconfig.cache
+C:\C#\No_Digit_Sum\No_Digit_Sum\obj\Debug\net6.0\ref\No_Digit_Sum.dll

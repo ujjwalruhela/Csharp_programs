@@ -1,0 +1,15 @@
+C:\C#\2dRightDiagonalSum\2dRightDiagonalSum\bin\Debug\net6.0\2dRightDiagonalSum.exe
+C:\C#\2dRightDiagonalSum\2dRightDiagonalSum\bin\Debug\net6.0\2dRightDiagonalSum.deps.json
+C:\C#\2dRightDiagonalSum\2dRightDiagonalSum\bin\Debug\net6.0\2dRightDiagonalSum.runtimeconfig.json
+C:\C#\2dRightDiagonalSum\2dRightDiagonalSum\bin\Debug\net6.0\2dRightDiagonalSum.dll
+C:\C#\2dRightDiagonalSum\2dRightDiagonalSum\bin\Debug\net6.0\2dRightDiagonalSum.pdb
+C:\C#\2dRightDiagonalSum\2dRightDiagonalSum\obj\Debug\net6.0\2dRightDiagonalSum.csproj.AssemblyReference.cache
+C:\C#\2dRightDiagonalSum\2dRightDiagonalSum\obj\Debug\net6.0\2dRightDiagonalSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\2dRightDiagonalSum\2dRightDiagonalSum\obj\Debug\net6.0\2dRightDiagonalSum.AssemblyInfoInputs.cache
+C:\C#\2dRightDiagonalSum\2dRightDiagonalSum\obj\Debug\net6.0\2dRightDiagonalSum.AssemblyInfo.cs
+C:\C#\2dRightDiagonalSum\2dRightDiagonalSum\obj\Debug\net6.0\2dRightDiagonalSum.csproj.CoreCompileInputs.cache
+C:\C#\2dRightDiagonalSum\2dRightDiagonalSum\obj\Debug\net6.0\2dRightDiagonalSum.dll
+C:\C#\2dRightDiagonalSum\2dRightDiagonalSum\obj\Debug\net6.0\refint\2dRightDiagonalSum.dll
+C:\C#\2dRightDiagonalSum\2dRightDiagonalSum\obj\Debug\net6.0\2dRightDiagonalSum.pdb
+C:\C#\2dRightDiagonalSum\2dRightDiagonalSum\obj\Debug\net6.0\2dRightDiagonalSum.genruntimeconfig.cache
+C:\C#\2dRightDiagonalSum\2dRightDiagonalSum\obj\Debug\net6.0\ref\2dRightDiagonalSum.dll

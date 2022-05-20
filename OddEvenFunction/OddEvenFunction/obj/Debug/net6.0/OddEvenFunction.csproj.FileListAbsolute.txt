@@ -1,0 +1,15 @@
+C:\C#\OddEvenFunction\OddEvenFunction\obj\Debug\net6.0\OddEvenFunction.csproj.AssemblyReference.cache
+C:\C#\OddEvenFunction\OddEvenFunction\obj\Debug\net6.0\OddEvenFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\OddEvenFunction\OddEvenFunction\obj\Debug\net6.0\OddEvenFunction.AssemblyInfoInputs.cache
+C:\C#\OddEvenFunction\OddEvenFunction\obj\Debug\net6.0\OddEvenFunction.AssemblyInfo.cs
+C:\C#\OddEvenFunction\OddEvenFunction\obj\Debug\net6.0\OddEvenFunction.csproj.CoreCompileInputs.cache
+C:\C#\OddEvenFunction\OddEvenFunction\bin\Debug\net6.0\OddEvenFunction.exe
+C:\C#\OddEvenFunction\OddEvenFunction\bin\Debug\net6.0\OddEvenFunction.deps.json
+C:\C#\OddEvenFunction\OddEvenFunction\bin\Debug\net6.0\OddEvenFunction.runtimeconfig.json
+C:\C#\OddEvenFunction\OddEvenFunction\bin\Debug\net6.0\OddEvenFunction.dll
+C:\C#\OddEvenFunction\OddEvenFunction\bin\Debug\net6.0\OddEvenFunction.pdb
+C:\C#\OddEvenFunction\OddEvenFunction\obj\Debug\net6.0\OddEvenFunction.dll
+C:\C#\OddEvenFunction\OddEvenFunction\obj\Debug\net6.0\refint\OddEvenFunction.dll
+C:\C#\OddEvenFunction\OddEvenFunction\obj\Debug\net6.0\OddEvenFunction.pdb
+C:\C#\OddEvenFunction\OddEvenFunction\obj\Debug\net6.0\OddEvenFunction.genruntimeconfig.cache
+C:\C#\OddEvenFunction\OddEvenFunction\obj\Debug\net6.0\ref\OddEvenFunction.dll

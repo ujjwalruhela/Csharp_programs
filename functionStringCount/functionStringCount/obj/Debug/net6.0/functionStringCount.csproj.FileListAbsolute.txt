@@ -1,0 +1,15 @@
+C:\C#\functionStringCount\functionStringCount\bin\Debug\net6.0\functionStringCount.exe
+C:\C#\functionStringCount\functionStringCount\bin\Debug\net6.0\functionStringCount.deps.json
+C:\C#\functionStringCount\functionStringCount\bin\Debug\net6.0\functionStringCount.runtimeconfig.json
+C:\C#\functionStringCount\functionStringCount\bin\Debug\net6.0\functionStringCount.dll
+C:\C#\functionStringCount\functionStringCount\bin\Debug\net6.0\functionStringCount.pdb
+C:\C#\functionStringCount\functionStringCount\obj\Debug\net6.0\functionStringCount.csproj.AssemblyReference.cache
+C:\C#\functionStringCount\functionStringCount\obj\Debug\net6.0\functionStringCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\functionStringCount\functionStringCount\obj\Debug\net6.0\functionStringCount.AssemblyInfoInputs.cache
+C:\C#\functionStringCount\functionStringCount\obj\Debug\net6.0\functionStringCount.AssemblyInfo.cs
+C:\C#\functionStringCount\functionStringCount\obj\Debug\net6.0\functionStringCount.csproj.CoreCompileInputs.cache
+C:\C#\functionStringCount\functionStringCount\obj\Debug\net6.0\functionStringCount.dll
+C:\C#\functionStringCount\functionStringCount\obj\Debug\net6.0\refint\functionStringCount.dll
+C:\C#\functionStringCount\functionStringCount\obj\Debug\net6.0\functionStringCount.pdb
+C:\C#\functionStringCount\functionStringCount\obj\Debug\net6.0\functionStringCount.genruntimeconfig.cache
+C:\C#\functionStringCount\functionStringCount\obj\Debug\net6.0\ref\functionStringCount.dll

@@ -1,0 +1,15 @@
+C:\C#\UppLow_LowUpp\UppLow_LowUpp\bin\Debug\net6.0\UppLow_LowUpp.exe
+C:\C#\UppLow_LowUpp\UppLow_LowUpp\bin\Debug\net6.0\UppLow_LowUpp.deps.json
+C:\C#\UppLow_LowUpp\UppLow_LowUpp\bin\Debug\net6.0\UppLow_LowUpp.runtimeconfig.json
+C:\C#\UppLow_LowUpp\UppLow_LowUpp\bin\Debug\net6.0\UppLow_LowUpp.dll
+C:\C#\UppLow_LowUpp\UppLow_LowUpp\bin\Debug\net6.0\UppLow_LowUpp.pdb
+C:\C#\UppLow_LowUpp\UppLow_LowUpp\obj\Debug\net6.0\UppLow_LowUpp.csproj.AssemblyReference.cache
+C:\C#\UppLow_LowUpp\UppLow_LowUpp\obj\Debug\net6.0\UppLow_LowUpp.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\UppLow_LowUpp\UppLow_LowUpp\obj\Debug\net6.0\UppLow_LowUpp.AssemblyInfoInputs.cache
+C:\C#\UppLow_LowUpp\UppLow_LowUpp\obj\Debug\net6.0\UppLow_LowUpp.AssemblyInfo.cs
+C:\C#\UppLow_LowUpp\UppLow_LowUpp\obj\Debug\net6.0\UppLow_LowUpp.csproj.CoreCompileInputs.cache
+C:\C#\UppLow_LowUpp\UppLow_LowUpp\obj\Debug\net6.0\UppLow_LowUpp.dll
+C:\C#\UppLow_LowUpp\UppLow_LowUpp\obj\Debug\net6.0\refint\UppLow_LowUpp.dll
+C:\C#\UppLow_LowUpp\UppLow_LowUpp\obj\Debug\net6.0\UppLow_LowUpp.pdb
+C:\C#\UppLow_LowUpp\UppLow_LowUpp\obj\Debug\net6.0\UppLow_LowUpp.genruntimeconfig.cache
+C:\C#\UppLow_LowUpp\UppLow_LowUpp\obj\Debug\net6.0\ref\UppLow_LowUpp.dll

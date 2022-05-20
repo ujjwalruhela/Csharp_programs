@@ -1,0 +1,15 @@
+C:\C#\arrayAppend\arrayAppend\bin\Debug\net6.0\arrayAppend.exe
+C:\C#\arrayAppend\arrayAppend\bin\Debug\net6.0\arrayAppend.deps.json
+C:\C#\arrayAppend\arrayAppend\bin\Debug\net6.0\arrayAppend.runtimeconfig.json
+C:\C#\arrayAppend\arrayAppend\bin\Debug\net6.0\arrayAppend.dll
+C:\C#\arrayAppend\arrayAppend\bin\Debug\net6.0\arrayAppend.pdb
+C:\C#\arrayAppend\arrayAppend\obj\Debug\net6.0\arrayAppend.csproj.AssemblyReference.cache
+C:\C#\arrayAppend\arrayAppend\obj\Debug\net6.0\arrayAppend.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\arrayAppend\arrayAppend\obj\Debug\net6.0\arrayAppend.AssemblyInfoInputs.cache
+C:\C#\arrayAppend\arrayAppend\obj\Debug\net6.0\arrayAppend.AssemblyInfo.cs
+C:\C#\arrayAppend\arrayAppend\obj\Debug\net6.0\arrayAppend.csproj.CoreCompileInputs.cache
+C:\C#\arrayAppend\arrayAppend\obj\Debug\net6.0\arrayAppend.dll
+C:\C#\arrayAppend\arrayAppend\obj\Debug\net6.0\refint\arrayAppend.dll
+C:\C#\arrayAppend\arrayAppend\obj\Debug\net6.0\arrayAppend.pdb
+C:\C#\arrayAppend\arrayAppend\obj\Debug\net6.0\arrayAppend.genruntimeconfig.cache
+C:\C#\arrayAppend\arrayAppend\obj\Debug\net6.0\ref\arrayAppend.dll

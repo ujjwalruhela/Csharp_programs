@@ -1,0 +1,15 @@
+C:\C#\marsksheet\marsksheet\bin\Debug\net6.0\marsksheet.exe
+C:\C#\marsksheet\marsksheet\bin\Debug\net6.0\marsksheet.deps.json
+C:\C#\marsksheet\marsksheet\bin\Debug\net6.0\marsksheet.runtimeconfig.json
+C:\C#\marsksheet\marsksheet\bin\Debug\net6.0\marsksheet.dll
+C:\C#\marsksheet\marsksheet\bin\Debug\net6.0\marsksheet.pdb
+C:\C#\marsksheet\marsksheet\obj\Debug\net6.0\marsksheet.csproj.AssemblyReference.cache
+C:\C#\marsksheet\marsksheet\obj\Debug\net6.0\marsksheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\marsksheet\marsksheet\obj\Debug\net6.0\marsksheet.AssemblyInfoInputs.cache
+C:\C#\marsksheet\marsksheet\obj\Debug\net6.0\marsksheet.AssemblyInfo.cs
+C:\C#\marsksheet\marsksheet\obj\Debug\net6.0\marsksheet.csproj.CoreCompileInputs.cache
+C:\C#\marsksheet\marsksheet\obj\Debug\net6.0\marsksheet.dll
+C:\C#\marsksheet\marsksheet\obj\Debug\net6.0\refint\marsksheet.dll
+C:\C#\marsksheet\marsksheet\obj\Debug\net6.0\marsksheet.pdb
+C:\C#\marsksheet\marsksheet\obj\Debug\net6.0\marsksheet.genruntimeconfig.cache
+C:\C#\marsksheet\marsksheet\obj\Debug\net6.0\ref\marsksheet.dll

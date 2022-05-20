@@ -1,0 +1,15 @@
+C:\C#\2DMaxMin\2DMaxMin\bin\Debug\net6.0\2DMaxMin.exe
+C:\C#\2DMaxMin\2DMaxMin\bin\Debug\net6.0\2DMaxMin.deps.json
+C:\C#\2DMaxMin\2DMaxMin\bin\Debug\net6.0\2DMaxMin.runtimeconfig.json
+C:\C#\2DMaxMin\2DMaxMin\bin\Debug\net6.0\2DMaxMin.dll
+C:\C#\2DMaxMin\2DMaxMin\bin\Debug\net6.0\2DMaxMin.pdb
+C:\C#\2DMaxMin\2DMaxMin\obj\Debug\net6.0\2DMaxMin.csproj.AssemblyReference.cache
+C:\C#\2DMaxMin\2DMaxMin\obj\Debug\net6.0\2DMaxMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\2DMaxMin\2DMaxMin\obj\Debug\net6.0\2DMaxMin.AssemblyInfoInputs.cache
+C:\C#\2DMaxMin\2DMaxMin\obj\Debug\net6.0\2DMaxMin.AssemblyInfo.cs
+C:\C#\2DMaxMin\2DMaxMin\obj\Debug\net6.0\2DMaxMin.csproj.CoreCompileInputs.cache
+C:\C#\2DMaxMin\2DMaxMin\obj\Debug\net6.0\2DMaxMin.dll
+C:\C#\2DMaxMin\2DMaxMin\obj\Debug\net6.0\refint\2DMaxMin.dll
+C:\C#\2DMaxMin\2DMaxMin\obj\Debug\net6.0\2DMaxMin.pdb
+C:\C#\2DMaxMin\2DMaxMin\obj\Debug\net6.0\2DMaxMin.genruntimeconfig.cache
+C:\C#\2DMaxMin\2DMaxMin\obj\Debug\net6.0\ref\2DMaxMin.dll

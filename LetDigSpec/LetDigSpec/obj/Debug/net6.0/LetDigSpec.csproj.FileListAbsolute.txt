@@ -1,0 +1,15 @@
+C:\C#\LetDigSpec\LetDigSpec\bin\Debug\net6.0\LetDigSpec.exe
+C:\C#\LetDigSpec\LetDigSpec\bin\Debug\net6.0\LetDigSpec.deps.json
+C:\C#\LetDigSpec\LetDigSpec\bin\Debug\net6.0\LetDigSpec.runtimeconfig.json
+C:\C#\LetDigSpec\LetDigSpec\bin\Debug\net6.0\LetDigSpec.dll
+C:\C#\LetDigSpec\LetDigSpec\bin\Debug\net6.0\LetDigSpec.pdb
+C:\C#\LetDigSpec\LetDigSpec\obj\Debug\net6.0\LetDigSpec.csproj.AssemblyReference.cache
+C:\C#\LetDigSpec\LetDigSpec\obj\Debug\net6.0\LetDigSpec.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\LetDigSpec\LetDigSpec\obj\Debug\net6.0\LetDigSpec.AssemblyInfoInputs.cache
+C:\C#\LetDigSpec\LetDigSpec\obj\Debug\net6.0\LetDigSpec.AssemblyInfo.cs
+C:\C#\LetDigSpec\LetDigSpec\obj\Debug\net6.0\LetDigSpec.csproj.CoreCompileInputs.cache
+C:\C#\LetDigSpec\LetDigSpec\obj\Debug\net6.0\LetDigSpec.dll
+C:\C#\LetDigSpec\LetDigSpec\obj\Debug\net6.0\refint\LetDigSpec.dll
+C:\C#\LetDigSpec\LetDigSpec\obj\Debug\net6.0\LetDigSpec.pdb
+C:\C#\LetDigSpec\LetDigSpec\obj\Debug\net6.0\LetDigSpec.genruntimeconfig.cache
+C:\C#\LetDigSpec\LetDigSpec\obj\Debug\net6.0\ref\LetDigSpec.dll

@@ -1,0 +1,15 @@
+C:\C#\Cons_vow\Cons_vow\bin\Debug\net6.0\Cons_vow.exe
+C:\C#\Cons_vow\Cons_vow\bin\Debug\net6.0\Cons_vow.deps.json
+C:\C#\Cons_vow\Cons_vow\bin\Debug\net6.0\Cons_vow.runtimeconfig.json
+C:\C#\Cons_vow\Cons_vow\bin\Debug\net6.0\Cons_vow.dll
+C:\C#\Cons_vow\Cons_vow\bin\Debug\net6.0\Cons_vow.pdb
+C:\C#\Cons_vow\Cons_vow\obj\Debug\net6.0\Cons_vow.csproj.AssemblyReference.cache
+C:\C#\Cons_vow\Cons_vow\obj\Debug\net6.0\Cons_vow.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Cons_vow\Cons_vow\obj\Debug\net6.0\Cons_vow.AssemblyInfoInputs.cache
+C:\C#\Cons_vow\Cons_vow\obj\Debug\net6.0\Cons_vow.AssemblyInfo.cs
+C:\C#\Cons_vow\Cons_vow\obj\Debug\net6.0\Cons_vow.csproj.CoreCompileInputs.cache
+C:\C#\Cons_vow\Cons_vow\obj\Debug\net6.0\Cons_vow.dll
+C:\C#\Cons_vow\Cons_vow\obj\Debug\net6.0\refint\Cons_vow.dll
+C:\C#\Cons_vow\Cons_vow\obj\Debug\net6.0\Cons_vow.pdb
+C:\C#\Cons_vow\Cons_vow\obj\Debug\net6.0\Cons_vow.genruntimeconfig.cache
+C:\C#\Cons_vow\Cons_vow\obj\Debug\net6.0\ref\Cons_vow.dll

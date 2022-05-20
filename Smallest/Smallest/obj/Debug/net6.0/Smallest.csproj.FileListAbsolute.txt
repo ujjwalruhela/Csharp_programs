@@ -1,0 +1,15 @@
+C:\C#\Smallest\Smallest\bin\Debug\net6.0\Smallest.exe
+C:\C#\Smallest\Smallest\bin\Debug\net6.0\Smallest.deps.json
+C:\C#\Smallest\Smallest\bin\Debug\net6.0\Smallest.runtimeconfig.json
+C:\C#\Smallest\Smallest\bin\Debug\net6.0\Smallest.dll
+C:\C#\Smallest\Smallest\bin\Debug\net6.0\Smallest.pdb
+C:\C#\Smallest\Smallest\obj\Debug\net6.0\Smallest.csproj.AssemblyReference.cache
+C:\C#\Smallest\Smallest\obj\Debug\net6.0\Smallest.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Smallest\Smallest\obj\Debug\net6.0\Smallest.AssemblyInfoInputs.cache
+C:\C#\Smallest\Smallest\obj\Debug\net6.0\Smallest.AssemblyInfo.cs
+C:\C#\Smallest\Smallest\obj\Debug\net6.0\Smallest.csproj.CoreCompileInputs.cache
+C:\C#\Smallest\Smallest\obj\Debug\net6.0\Smallest.dll
+C:\C#\Smallest\Smallest\obj\Debug\net6.0\refint\Smallest.dll
+C:\C#\Smallest\Smallest\obj\Debug\net6.0\Smallest.pdb
+C:\C#\Smallest\Smallest\obj\Debug\net6.0\Smallest.genruntimeconfig.cache
+C:\C#\Smallest\Smallest\obj\Debug\net6.0\ref\Smallest.dll

@@ -1,0 +1,15 @@
+C:\C#\Cap_Small\Cap_Small\bin\Debug\net6.0\Cap_Small.exe
+C:\C#\Cap_Small\Cap_Small\bin\Debug\net6.0\Cap_Small.deps.json
+C:\C#\Cap_Small\Cap_Small\bin\Debug\net6.0\Cap_Small.runtimeconfig.json
+C:\C#\Cap_Small\Cap_Small\bin\Debug\net6.0\Cap_Small.dll
+C:\C#\Cap_Small\Cap_Small\bin\Debug\net6.0\Cap_Small.pdb
+C:\C#\Cap_Small\Cap_Small\obj\Debug\net6.0\Cap_Small.csproj.AssemblyReference.cache
+C:\C#\Cap_Small\Cap_Small\obj\Debug\net6.0\Cap_Small.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Cap_Small\Cap_Small\obj\Debug\net6.0\Cap_Small.AssemblyInfoInputs.cache
+C:\C#\Cap_Small\Cap_Small\obj\Debug\net6.0\Cap_Small.AssemblyInfo.cs
+C:\C#\Cap_Small\Cap_Small\obj\Debug\net6.0\Cap_Small.csproj.CoreCompileInputs.cache
+C:\C#\Cap_Small\Cap_Small\obj\Debug\net6.0\Cap_Small.dll
+C:\C#\Cap_Small\Cap_Small\obj\Debug\net6.0\refint\Cap_Small.dll
+C:\C#\Cap_Small\Cap_Small\obj\Debug\net6.0\Cap_Small.pdb
+C:\C#\Cap_Small\Cap_Small\obj\Debug\net6.0\Cap_Small.genruntimeconfig.cache
+C:\C#\Cap_Small\Cap_Small\obj\Debug\net6.0\ref\Cap_Small.dll

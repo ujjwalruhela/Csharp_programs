@@ -1,0 +1,15 @@
+C:\C#\2dLeftDiagonalSum\2dDiagonal\bin\Debug\net6.0\2dDiagonal.exe
+C:\C#\2dLeftDiagonalSum\2dDiagonal\bin\Debug\net6.0\2dDiagonal.deps.json
+C:\C#\2dLeftDiagonalSum\2dDiagonal\bin\Debug\net6.0\2dDiagonal.runtimeconfig.json
+C:\C#\2dLeftDiagonalSum\2dDiagonal\bin\Debug\net6.0\2dDiagonal.dll
+C:\C#\2dLeftDiagonalSum\2dDiagonal\bin\Debug\net6.0\2dDiagonal.pdb
+C:\C#\2dLeftDiagonalSum\2dDiagonal\obj\Debug\net6.0\2dDiagonal.csproj.AssemblyReference.cache
+C:\C#\2dLeftDiagonalSum\2dDiagonal\obj\Debug\net6.0\2dDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\2dLeftDiagonalSum\2dDiagonal\obj\Debug\net6.0\2dDiagonal.AssemblyInfoInputs.cache
+C:\C#\2dLeftDiagonalSum\2dDiagonal\obj\Debug\net6.0\2dDiagonal.AssemblyInfo.cs
+C:\C#\2dLeftDiagonalSum\2dDiagonal\obj\Debug\net6.0\2dDiagonal.csproj.CoreCompileInputs.cache
+C:\C#\2dLeftDiagonalSum\2dDiagonal\obj\Debug\net6.0\2dDiagonal.dll
+C:\C#\2dLeftDiagonalSum\2dDiagonal\obj\Debug\net6.0\refint\2dDiagonal.dll
+C:\C#\2dLeftDiagonalSum\2dDiagonal\obj\Debug\net6.0\2dDiagonal.pdb
+C:\C#\2dLeftDiagonalSum\2dDiagonal\obj\Debug\net6.0\2dDiagonal.genruntimeconfig.cache
+C:\C#\2dLeftDiagonalSum\2dDiagonal\obj\Debug\net6.0\ref\2dDiagonal.dll

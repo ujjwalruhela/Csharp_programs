@@ -1,0 +1,15 @@
+C:\C#\PosNeg\PosNeg\bin\Debug\net6.0\PosNeg.exe
+C:\C#\PosNeg\PosNeg\bin\Debug\net6.0\PosNeg.deps.json
+C:\C#\PosNeg\PosNeg\bin\Debug\net6.0\PosNeg.runtimeconfig.json
+C:\C#\PosNeg\PosNeg\bin\Debug\net6.0\PosNeg.dll
+C:\C#\PosNeg\PosNeg\bin\Debug\net6.0\PosNeg.pdb
+C:\C#\PosNeg\PosNeg\obj\Debug\net6.0\PosNeg.csproj.AssemblyReference.cache
+C:\C#\PosNeg\PosNeg\obj\Debug\net6.0\PosNeg.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\PosNeg\PosNeg\obj\Debug\net6.0\PosNeg.AssemblyInfoInputs.cache
+C:\C#\PosNeg\PosNeg\obj\Debug\net6.0\PosNeg.AssemblyInfo.cs
+C:\C#\PosNeg\PosNeg\obj\Debug\net6.0\PosNeg.csproj.CoreCompileInputs.cache
+C:\C#\PosNeg\PosNeg\obj\Debug\net6.0\PosNeg.dll
+C:\C#\PosNeg\PosNeg\obj\Debug\net6.0\refint\PosNeg.dll
+C:\C#\PosNeg\PosNeg\obj\Debug\net6.0\PosNeg.pdb
+C:\C#\PosNeg\PosNeg\obj\Debug\net6.0\PosNeg.genruntimeconfig.cache
+C:\C#\PosNeg\PosNeg\obj\Debug\net6.0\ref\PosNeg.dll

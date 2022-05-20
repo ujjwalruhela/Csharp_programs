@@ -1,0 +1,15 @@
+C:\C#\PerfectNumber\PerfectNumber\bin\Debug\net6.0\PerfectNumber.exe
+C:\C#\PerfectNumber\PerfectNumber\bin\Debug\net6.0\PerfectNumber.deps.json
+C:\C#\PerfectNumber\PerfectNumber\bin\Debug\net6.0\PerfectNumber.runtimeconfig.json
+C:\C#\PerfectNumber\PerfectNumber\bin\Debug\net6.0\PerfectNumber.dll
+C:\C#\PerfectNumber\PerfectNumber\bin\Debug\net6.0\PerfectNumber.pdb
+C:\C#\PerfectNumber\PerfectNumber\obj\Debug\net6.0\PerfectNumber.csproj.AssemblyReference.cache
+C:\C#\PerfectNumber\PerfectNumber\obj\Debug\net6.0\PerfectNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\PerfectNumber\PerfectNumber\obj\Debug\net6.0\PerfectNumber.AssemblyInfoInputs.cache
+C:\C#\PerfectNumber\PerfectNumber\obj\Debug\net6.0\PerfectNumber.AssemblyInfo.cs
+C:\C#\PerfectNumber\PerfectNumber\obj\Debug\net6.0\PerfectNumber.csproj.CoreCompileInputs.cache
+C:\C#\PerfectNumber\PerfectNumber\obj\Debug\net6.0\PerfectNumber.dll
+C:\C#\PerfectNumber\PerfectNumber\obj\Debug\net6.0\refint\PerfectNumber.dll
+C:\C#\PerfectNumber\PerfectNumber\obj\Debug\net6.0\PerfectNumber.pdb
+C:\C#\PerfectNumber\PerfectNumber\obj\Debug\net6.0\PerfectNumber.genruntimeconfig.cache
+C:\C#\PerfectNumber\PerfectNumber\obj\Debug\net6.0\ref\PerfectNumber.dll

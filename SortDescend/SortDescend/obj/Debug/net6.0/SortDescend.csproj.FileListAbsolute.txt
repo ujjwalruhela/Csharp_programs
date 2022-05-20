@@ -1,0 +1,15 @@
+C:\C#\SortDescend\SortDescend\bin\Debug\net6.0\SortDescend.exe
+C:\C#\SortDescend\SortDescend\bin\Debug\net6.0\SortDescend.deps.json
+C:\C#\SortDescend\SortDescend\bin\Debug\net6.0\SortDescend.runtimeconfig.json
+C:\C#\SortDescend\SortDescend\bin\Debug\net6.0\SortDescend.dll
+C:\C#\SortDescend\SortDescend\bin\Debug\net6.0\SortDescend.pdb
+C:\C#\SortDescend\SortDescend\obj\Debug\net6.0\SortDescend.csproj.AssemblyReference.cache
+C:\C#\SortDescend\SortDescend\obj\Debug\net6.0\SortDescend.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\SortDescend\SortDescend\obj\Debug\net6.0\SortDescend.AssemblyInfoInputs.cache
+C:\C#\SortDescend\SortDescend\obj\Debug\net6.0\SortDescend.AssemblyInfo.cs
+C:\C#\SortDescend\SortDescend\obj\Debug\net6.0\SortDescend.csproj.CoreCompileInputs.cache
+C:\C#\SortDescend\SortDescend\obj\Debug\net6.0\SortDescend.dll
+C:\C#\SortDescend\SortDescend\obj\Debug\net6.0\refint\SortDescend.dll
+C:\C#\SortDescend\SortDescend\obj\Debug\net6.0\SortDescend.pdb
+C:\C#\SortDescend\SortDescend\obj\Debug\net6.0\SortDescend.genruntimeconfig.cache
+C:\C#\SortDescend\SortDescend\obj\Debug\net6.0\ref\SortDescend.dll

@@ -1,0 +1,15 @@
+C:\C#\primeFunction\primeFunction\obj\Debug\net6.0\primeFunction.csproj.AssemblyReference.cache
+C:\C#\primeFunction\primeFunction\obj\Debug\net6.0\primeFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\primeFunction\primeFunction\obj\Debug\net6.0\primeFunction.AssemblyInfoInputs.cache
+C:\C#\primeFunction\primeFunction\obj\Debug\net6.0\primeFunction.AssemblyInfo.cs
+C:\C#\primeFunction\primeFunction\obj\Debug\net6.0\primeFunction.csproj.CoreCompileInputs.cache
+C:\C#\primeFunction\primeFunction\bin\Debug\net6.0\primeFunction.exe
+C:\C#\primeFunction\primeFunction\bin\Debug\net6.0\primeFunction.deps.json
+C:\C#\primeFunction\primeFunction\bin\Debug\net6.0\primeFunction.runtimeconfig.json
+C:\C#\primeFunction\primeFunction\bin\Debug\net6.0\primeFunction.dll
+C:\C#\primeFunction\primeFunction\bin\Debug\net6.0\primeFunction.pdb
+C:\C#\primeFunction\primeFunction\obj\Debug\net6.0\primeFunction.dll
+C:\C#\primeFunction\primeFunction\obj\Debug\net6.0\refint\primeFunction.dll
+C:\C#\primeFunction\primeFunction\obj\Debug\net6.0\primeFunction.pdb
+C:\C#\primeFunction\primeFunction\obj\Debug\net6.0\primeFunction.genruntimeconfig.cache
+C:\C#\primeFunction\primeFunction\obj\Debug\net6.0\ref\primeFunction.dll

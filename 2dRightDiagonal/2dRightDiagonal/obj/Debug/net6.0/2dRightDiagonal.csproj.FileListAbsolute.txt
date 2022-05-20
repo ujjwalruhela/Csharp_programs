@@ -1,0 +1,15 @@
+C:\C#\2dRightDiagonal\2dRightDiagonal\bin\Debug\net6.0\2dRightDiagonal.exe
+C:\C#\2dRightDiagonal\2dRightDiagonal\bin\Debug\net6.0\2dRightDiagonal.deps.json
+C:\C#\2dRightDiagonal\2dRightDiagonal\bin\Debug\net6.0\2dRightDiagonal.runtimeconfig.json
+C:\C#\2dRightDiagonal\2dRightDiagonal\bin\Debug\net6.0\2dRightDiagonal.dll
+C:\C#\2dRightDiagonal\2dRightDiagonal\bin\Debug\net6.0\2dRightDiagonal.pdb
+C:\C#\2dRightDiagonal\2dRightDiagonal\obj\Debug\net6.0\2dRightDiagonal.csproj.AssemblyReference.cache
+C:\C#\2dRightDiagonal\2dRightDiagonal\obj\Debug\net6.0\2dRightDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\2dRightDiagonal\2dRightDiagonal\obj\Debug\net6.0\2dRightDiagonal.AssemblyInfoInputs.cache
+C:\C#\2dRightDiagonal\2dRightDiagonal\obj\Debug\net6.0\2dRightDiagonal.AssemblyInfo.cs
+C:\C#\2dRightDiagonal\2dRightDiagonal\obj\Debug\net6.0\2dRightDiagonal.csproj.CoreCompileInputs.cache
+C:\C#\2dRightDiagonal\2dRightDiagonal\obj\Debug\net6.0\2dRightDiagonal.dll
+C:\C#\2dRightDiagonal\2dRightDiagonal\obj\Debug\net6.0\refint\2dRightDiagonal.dll
+C:\C#\2dRightDiagonal\2dRightDiagonal\obj\Debug\net6.0\2dRightDiagonal.pdb
+C:\C#\2dRightDiagonal\2dRightDiagonal\obj\Debug\net6.0\2dRightDiagonal.genruntimeconfig.cache
+C:\C#\2dRightDiagonal\2dRightDiagonal\obj\Debug\net6.0\ref\2dRightDiagonal.dll

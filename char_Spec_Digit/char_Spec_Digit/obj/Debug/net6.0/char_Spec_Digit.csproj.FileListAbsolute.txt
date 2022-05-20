@@ -1,0 +1,15 @@
+C:\C#\char_Spec_Digit\char_Spec_Digit\bin\Debug\net6.0\char_Spec_Digit.exe
+C:\C#\char_Spec_Digit\char_Spec_Digit\bin\Debug\net6.0\char_Spec_Digit.deps.json
+C:\C#\char_Spec_Digit\char_Spec_Digit\bin\Debug\net6.0\char_Spec_Digit.runtimeconfig.json
+C:\C#\char_Spec_Digit\char_Spec_Digit\bin\Debug\net6.0\char_Spec_Digit.dll
+C:\C#\char_Spec_Digit\char_Spec_Digit\bin\Debug\net6.0\char_Spec_Digit.pdb
+C:\C#\char_Spec_Digit\char_Spec_Digit\obj\Debug\net6.0\char_Spec_Digit.csproj.AssemblyReference.cache
+C:\C#\char_Spec_Digit\char_Spec_Digit\obj\Debug\net6.0\char_Spec_Digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\char_Spec_Digit\char_Spec_Digit\obj\Debug\net6.0\char_Spec_Digit.AssemblyInfoInputs.cache
+C:\C#\char_Spec_Digit\char_Spec_Digit\obj\Debug\net6.0\char_Spec_Digit.AssemblyInfo.cs
+C:\C#\char_Spec_Digit\char_Spec_Digit\obj\Debug\net6.0\char_Spec_Digit.csproj.CoreCompileInputs.cache
+C:\C#\char_Spec_Digit\char_Spec_Digit\obj\Debug\net6.0\char_Spec_Digit.dll
+C:\C#\char_Spec_Digit\char_Spec_Digit\obj\Debug\net6.0\refint\char_Spec_Digit.dll
+C:\C#\char_Spec_Digit\char_Spec_Digit\obj\Debug\net6.0\char_Spec_Digit.pdb
+C:\C#\char_Spec_Digit\char_Spec_Digit\obj\Debug\net6.0\char_Spec_Digit.genruntimeconfig.cache
+C:\C#\char_Spec_Digit\char_Spec_Digit\obj\Debug\net6.0\ref\char_Spec_Digit.dll

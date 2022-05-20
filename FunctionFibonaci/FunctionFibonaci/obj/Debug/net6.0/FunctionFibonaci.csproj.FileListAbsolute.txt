@@ -1,0 +1,15 @@
+C:\C#\FunctionFibonaci\FunctionFibonaci\bin\Debug\net6.0\FunctionFibonaci.exe
+C:\C#\FunctionFibonaci\FunctionFibonaci\bin\Debug\net6.0\FunctionFibonaci.deps.json
+C:\C#\FunctionFibonaci\FunctionFibonaci\bin\Debug\net6.0\FunctionFibonaci.runtimeconfig.json
+C:\C#\FunctionFibonaci\FunctionFibonaci\bin\Debug\net6.0\FunctionFibonaci.dll
+C:\C#\FunctionFibonaci\FunctionFibonaci\bin\Debug\net6.0\FunctionFibonaci.pdb
+C:\C#\FunctionFibonaci\FunctionFibonaci\obj\Debug\net6.0\FunctionFibonaci.csproj.AssemblyReference.cache
+C:\C#\FunctionFibonaci\FunctionFibonaci\obj\Debug\net6.0\FunctionFibonaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\FunctionFibonaci\FunctionFibonaci\obj\Debug\net6.0\FunctionFibonaci.AssemblyInfoInputs.cache
+C:\C#\FunctionFibonaci\FunctionFibonaci\obj\Debug\net6.0\FunctionFibonaci.AssemblyInfo.cs
+C:\C#\FunctionFibonaci\FunctionFibonaci\obj\Debug\net6.0\FunctionFibonaci.csproj.CoreCompileInputs.cache
+C:\C#\FunctionFibonaci\FunctionFibonaci\obj\Debug\net6.0\FunctionFibonaci.dll
+C:\C#\FunctionFibonaci\FunctionFibonaci\obj\Debug\net6.0\refint\FunctionFibonaci.dll
+C:\C#\FunctionFibonaci\FunctionFibonaci\obj\Debug\net6.0\FunctionFibonaci.pdb
+C:\C#\FunctionFibonaci\FunctionFibonaci\obj\Debug\net6.0\FunctionFibonaci.genruntimeconfig.cache
+C:\C#\FunctionFibonaci\FunctionFibonaci\obj\Debug\net6.0\ref\FunctionFibonaci.dll

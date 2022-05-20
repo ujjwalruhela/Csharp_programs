@@ -1,0 +1,15 @@
+C:\C#\ArrayPrimeNo\ArrayPrimeNo\bin\Debug\net6.0\ArrayPrimeNo.exe
+C:\C#\ArrayPrimeNo\ArrayPrimeNo\bin\Debug\net6.0\ArrayPrimeNo.deps.json
+C:\C#\ArrayPrimeNo\ArrayPrimeNo\bin\Debug\net6.0\ArrayPrimeNo.runtimeconfig.json
+C:\C#\ArrayPrimeNo\ArrayPrimeNo\bin\Debug\net6.0\ArrayPrimeNo.dll
+C:\C#\ArrayPrimeNo\ArrayPrimeNo\bin\Debug\net6.0\ArrayPrimeNo.pdb
+C:\C#\ArrayPrimeNo\ArrayPrimeNo\obj\Debug\net6.0\ArrayPrimeNo.csproj.AssemblyReference.cache
+C:\C#\ArrayPrimeNo\ArrayPrimeNo\obj\Debug\net6.0\ArrayPrimeNo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ArrayPrimeNo\ArrayPrimeNo\obj\Debug\net6.0\ArrayPrimeNo.AssemblyInfoInputs.cache
+C:\C#\ArrayPrimeNo\ArrayPrimeNo\obj\Debug\net6.0\ArrayPrimeNo.AssemblyInfo.cs
+C:\C#\ArrayPrimeNo\ArrayPrimeNo\obj\Debug\net6.0\ArrayPrimeNo.csproj.CoreCompileInputs.cache
+C:\C#\ArrayPrimeNo\ArrayPrimeNo\obj\Debug\net6.0\ArrayPrimeNo.dll
+C:\C#\ArrayPrimeNo\ArrayPrimeNo\obj\Debug\net6.0\refint\ArrayPrimeNo.dll
+C:\C#\ArrayPrimeNo\ArrayPrimeNo\obj\Debug\net6.0\ArrayPrimeNo.pdb
+C:\C#\ArrayPrimeNo\ArrayPrimeNo\obj\Debug\net6.0\ArrayPrimeNo.genruntimeconfig.cache
+C:\C#\ArrayPrimeNo\ArrayPrimeNo\obj\Debug\net6.0\ref\ArrayPrimeNo.dll

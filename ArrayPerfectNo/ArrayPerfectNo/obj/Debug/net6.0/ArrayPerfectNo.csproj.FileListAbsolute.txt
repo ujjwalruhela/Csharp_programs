@@ -1,0 +1,15 @@
+C:\C#\ArrayPerfectNo\ArrayPerfectNo\bin\Debug\net6.0\ArrayPerfectNo.exe
+C:\C#\ArrayPerfectNo\ArrayPerfectNo\bin\Debug\net6.0\ArrayPerfectNo.deps.json
+C:\C#\ArrayPerfectNo\ArrayPerfectNo\bin\Debug\net6.0\ArrayPerfectNo.runtimeconfig.json
+C:\C#\ArrayPerfectNo\ArrayPerfectNo\bin\Debug\net6.0\ArrayPerfectNo.dll
+C:\C#\ArrayPerfectNo\ArrayPerfectNo\bin\Debug\net6.0\ArrayPerfectNo.pdb
+C:\C#\ArrayPerfectNo\ArrayPerfectNo\obj\Debug\net6.0\ArrayPerfectNo.csproj.AssemblyReference.cache
+C:\C#\ArrayPerfectNo\ArrayPerfectNo\obj\Debug\net6.0\ArrayPerfectNo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ArrayPerfectNo\ArrayPerfectNo\obj\Debug\net6.0\ArrayPerfectNo.AssemblyInfoInputs.cache
+C:\C#\ArrayPerfectNo\ArrayPerfectNo\obj\Debug\net6.0\ArrayPerfectNo.AssemblyInfo.cs
+C:\C#\ArrayPerfectNo\ArrayPerfectNo\obj\Debug\net6.0\ArrayPerfectNo.csproj.CoreCompileInputs.cache
+C:\C#\ArrayPerfectNo\ArrayPerfectNo\obj\Debug\net6.0\ArrayPerfectNo.dll
+C:\C#\ArrayPerfectNo\ArrayPerfectNo\obj\Debug\net6.0\refint\ArrayPerfectNo.dll
+C:\C#\ArrayPerfectNo\ArrayPerfectNo\obj\Debug\net6.0\ArrayPerfectNo.pdb
+C:\C#\ArrayPerfectNo\ArrayPerfectNo\obj\Debug\net6.0\ArrayPerfectNo.genruntimeconfig.cache
+C:\C#\ArrayPerfectNo\ArrayPerfectNo\obj\Debug\net6.0\ref\ArrayPerfectNo.dll
